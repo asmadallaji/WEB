@@ -1,0 +1,65 @@
+*{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family: Papyrus, fantasy;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    color: blue;
+}
+h1 > em {
+    font-size: 32px;
+    text-transform: uppercase;
+}
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+  }
+  ul.list1{
+    list-style-type: none;
+  }
+  li>span{
+    vertical-align: bottom;
+  }
+  .haut{
+    text-align: right;
+  }
+  a:visited{
+    color: red;
+  }
+  .c1{
+    font-weight: bold;
+    color: blue;
+    font-family: Cursive, Arial, Helvetica, sans-serif;
+  }
+  .c2{
+    color: green;
+    font-style: italic;
+  }
+  .list3{
+    list-style-type: lower-alpha;
+  }
+  ul.list4{
+    list-style-type: square;
+  }
+  ul.list4>li{
+    font-size: 12px;
+    font-weight: bold;
+  }
+  span{
+    font-style: italic;
+    font-family: Cursive, Arial, Helvetica, sans-serif;
+    color: green;
+  }
+  .Charades{
+    font-weight: bold;
+    color: blue;
+    font-family: Cursive, Arial, Helvetica, sans-serif;
+  }
+  ol.list5{
+    list-style-type: upper-alpha;
+  }
